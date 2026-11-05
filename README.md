@@ -93,6 +93,12 @@ If you find this project useful, consider [funding it](https://hmlendea.go.ro/fu
 
 [![Donate](https://raw.githubusercontent.com/hmlendea/readme-assets/master/donate_generic.png)](https://hmlendea.go.ro/funding)
 
+## 🛡️ Privacy and Data
+
+Nucian Language does not collect, process, transmit, or persist user data, analytics, diagnostics, or telemetry. The repository contains only static linguistic data and tooling.
+
+For the detailed description of how the application handles privacy and personal data, see the [Privacy Statement](./PRIVACY.md).
+
 ## 📄 License
 
 This project is being distributed under the `GNU General Public License v3.0` or later.
