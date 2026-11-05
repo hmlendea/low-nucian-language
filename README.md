@@ -21,6 +21,7 @@ Constructed language resources for Nuçian, including the PolyGlot dictionary so
 - [Documentation](#-documentation)
 - [Contributing](#-contributing)
 - [Helping out](#-helping-out)
+- [Security](#-security)
 - [License](#-license)
 
 ## ✨ Features
@@ -98,6 +99,12 @@ If you find this project useful, consider [funding it](https://hmlendea.go.ro/fu
 Nucian Language does not collect, process, transmit, or persist user data, analytics, diagnostics, or telemetry. The repository contains only static linguistic data and tooling.
 
 For the detailed description of how the application handles privacy and personal data, see the [Privacy Statement](./PRIVACY.md).
+
+## 🔒 Security
+
+Nucian Language is a static constructed-language data repository with no running application, user accounts, authentication, or external data processing. Security maintenance applies to the latest version on the master branch.
+
+For information on reporting security vulnerabilities, see the [Security Policy](./SECURITY.md).
 
 ## 📄 License
 
